@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Socre_Font_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 550c27b116b67f14e853884fce999042, type: 3}
+    - {fileID: 2800000, guid: 040ba0ff5fbd0f54f84efdb90dd61699, type: 3}
+    - {fileID: 2800000, guid: 66e2831041d29d94dbdc959e4af5e15e, type: 3}
+    - {fileID: 2800000, guid: 8276a1d6d40b912428126938115fe674, type: 3}
+    - {fileID: 2800000, guid: 42ea025cc39b49f4ca6df7105c1ada34, type: 3}
+    - {fileID: 2800000, guid: 07887f64eee56834cb11ba2f1e090eb9, type: 3}
+    - {fileID: 2800000, guid: 3115ec38c65a5dd459baef2860ef43e8, type: 3}
+    - {fileID: 2800000, guid: 236b38c4ce8636c4586c8d2e0e3789bc, type: 3}
+    - {fileID: 2800000, guid: ec0381c58df11244cb9fadb83e38d2fd, type: 3}
+    - {fileID: 2800000, guid: ffb9dda0a51639f46b59bdea87d847a4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 66e2831041d29d94dbdc959e4af5e15e: 21300000
+    - ffb9dda0a51639f46b59bdea87d847a4: 21300000
+    - 550c27b116b67f14e853884fce999042: 21300000
+    - 07887f64eee56834cb11ba2f1e090eb9: 21300000
+    - 236b38c4ce8636c4586c8d2e0e3789bc: 21300000
+    - ec0381c58df11244cb9fadb83e38d2fd: 21300000
+    - 8276a1d6d40b912428126938115fe674: 21300000
+    - 3115ec38c65a5dd459baef2860ef43e8: 21300000
+    - 42ea025cc39b49f4ca6df7105c1ada34: 21300000
+    - 040ba0ff5fbd0f54f84efdb90dd61699: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 66e2831041d29d94dbdc959e4af5e15e, type: 3}
+  - {fileID: 21300000, guid: ffb9dda0a51639f46b59bdea87d847a4, type: 3}
+  - {fileID: 21300000, guid: 550c27b116b67f14e853884fce999042, type: 3}
+  - {fileID: 21300000, guid: 07887f64eee56834cb11ba2f1e090eb9, type: 3}
+  - {fileID: 21300000, guid: 236b38c4ce8636c4586c8d2e0e3789bc, type: 3}
+  - {fileID: 21300000, guid: ec0381c58df11244cb9fadb83e38d2fd, type: 3}
+  - {fileID: 21300000, guid: 8276a1d6d40b912428126938115fe674, type: 3}
+  - {fileID: 21300000, guid: 3115ec38c65a5dd459baef2860ef43e8, type: 3}
+  - {fileID: 21300000, guid: 42ea025cc39b49f4ca6df7105c1ada34, type: 3}
+  - {fileID: 21300000, guid: 040ba0ff5fbd0f54f84efdb90dd61699, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 2
+  - 9
+  - 0
+  - 5
+  - 7
+  - 8
+  - 3
+  - 6
+  - 4
+  - 1
+  m_RenderDataMap: {}
+  m_Tag: Socre_Font_Atlas
+  m_IsVariant: 0

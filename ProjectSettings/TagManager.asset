@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boundary
+  - Enemy
+  - BulletBoundary
+  - PlayerBullet
+  - EnemyBullet
+  - PlayerBomb
+  - Boss
+  - Item
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BulletBoundary
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4035989063
+    locked: 0
+  - name: Stage
+    uniqueID: 2466771267
+    locked: 0
+  - name: Player
+    uniqueID: 1845949593
+    locked: 0
+  - name: Bullet
+    uniqueID: 4281603983
+    locked: 0
+  - name: Enemy
+    uniqueID: 1569163579
+    locked: 0
